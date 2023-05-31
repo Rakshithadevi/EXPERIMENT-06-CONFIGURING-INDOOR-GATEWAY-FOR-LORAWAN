@@ -86,9 +86,12 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+![WhatsApp Image 2023-05-31 at 09 10 54](https://github.com/Rakshithadevi/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/94165326/10809752-c3ef-4fbc-a93d-c84cabdbb599)
+
+
 
 
 
 ## Results: 
-
+configuring indoor gateway for lorawan are executed and the results are verified.
 
